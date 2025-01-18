@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class VvEditorApplication {
 
 	public static void main(String[] args) {
+		//starts here
 		SpringApplication.run(VvEditorApplication.class, args);
 	}
 
